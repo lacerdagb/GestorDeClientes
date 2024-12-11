@@ -1,0 +1,7 @@
+C:\Users\Gabriel\OneDrive\Documentos\Estudos\C# 4 Projetos Execicios\GestorDeClientes\bin\Debug\GestorDeClientes.exe.config
+C:\Users\Gabriel\OneDrive\Documentos\Estudos\C# 4 Projetos Execicios\GestorDeClientes\bin\Debug\GestorDeClientes.exe
+C:\Users\Gabriel\OneDrive\Documentos\Estudos\C# 4 Projetos Execicios\GestorDeClientes\bin\Debug\GestorDeClientes.pdb
+C:\Users\Gabriel\OneDrive\Documentos\Estudos\C# 4 Projetos Execicios\GestorDeClientes\obj\Debug\GestorDeClientes.csproj.AssemblyReference.cache
+C:\Users\Gabriel\OneDrive\Documentos\Estudos\C# 4 Projetos Execicios\GestorDeClientes\obj\Debug\GestorDeClientes.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\OneDrive\Documentos\Estudos\C# 4 Projetos Execicios\GestorDeClientes\obj\Debug\GestorDeClientes.exe
+C:\Users\Gabriel\OneDrive\Documentos\Estudos\C# 4 Projetos Execicios\GestorDeClientes\obj\Debug\GestorDeClientes.pdb
