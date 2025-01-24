@@ -1,3 +1,4 @@
+![GestorDeClientes](https://github.com/user-attachments/assets/8872f899-ba1f-4194-b28d-7d38abd4e398)
 # 📋 Gestor de Clientes em C#
 
 Um simples programa de gerenciamento de clientes feito em **C#**, com funcionalidades de adicionar, listar e remover clientes. Os dados são salvos em um arquivo para garantir persistência entre execuções. 
